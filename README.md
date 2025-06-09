@@ -18,7 +18,7 @@ A C# Windows Forms application that simulates a traffic light with customizable 
 
 ## Setup
 
-1. Clone the repository: `git clone https://github.com/Mahmoud-Elshaer-10/Traffic-Light-Simulator.git`
+1. Clone the repository: `git clone https://github.com/Mahmoud-Elshaer-10/trafic-light-Project.git`
 2. Open `trafik_light_Project.sln` in Visual Studio.
 3. Build and run the project.
 
